@@ -1,0 +1,11 @@
+text,sentiment,category,emotion
+"Product quality is amazing",positive,product,happy
+"Delivery was too late",negative,delivery,angry
+"Service is okay",neutral,service,neutral
+"Customer support was helpful",positive,support,happy
+"Very bad experience",negative,service,angry
+"Average product",neutral,product,neutral
+"Fast delivery loved it",positive,delivery,happy
+"Support team not responding",negative,support,angry
+"I feel disappointed",negative,service,sad
+"This made me happy",positive,product,happy
